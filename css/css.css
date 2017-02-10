@@ -1,0 +1,41 @@
+h2 {
+  color: blue;
+  font-style: italic;
+}
+.date {
+  font-style: italic;
+  color:blue;
+  font-size: 25px;
+}
+
+
+.snorkel {
+    background-color: #27a2b2;
+}
+.jumbotron{
+    position: relative;
+    padding: 0 !important;
+    margin-top:70px !important;
+    background: #f2c354;
+    margin-top: 23px;
+    text-align:center;
+    margin-bottom: 0 !important;
+}
+.container-fluid{
+    padding:0 !important;
+}
+.col-xs-4{
+    background:rgba(157,52,99,0.7);
+}
+img{
+  float: top;left;
+  width: 160px;
+  length: 160px;
+}
+nav {
+  float: left;
+}
+ul{
+float:top;
+
+}
